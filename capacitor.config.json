@@ -1,0 +1,10 @@
+{
+  "appId": "com.vini",
+  "appName": "todois",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
